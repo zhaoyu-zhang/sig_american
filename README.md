@@ -1,5 +1,8 @@
 # sig_american
 
+
+Rune Generate Paths and Signatures.ipynb first to generate paths and signatures
+
 python=3.5
 tqdm==4.64.1
 tensorflow==1.10.0
