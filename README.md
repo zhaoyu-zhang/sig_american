@@ -1,7 +1,11 @@
 # sig_american
 
 
-Rune Generate Paths and Signatures.ipynb first to generate paths and signatures
+Run Generate Paths and Signatures.ipynb first to generate paths and signatures
+
+Next run Asian d1 m10.ipynb for pricing Bermudan option
+
+Change nbSeg as desired
 
 python=3.5
 tqdm==4.64.1
