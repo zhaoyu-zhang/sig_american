@@ -5,7 +5,7 @@ Run "Generate Paths and Signatures.ipynb" first to generate paths and signatures
 
 Next run "Asian d1 m10.ipynb" for pricing Bermudan option
 
-Change nbSeg as desired
+Change nbSeg, num_epoch, num_epochExt, num_epochExt1, nTest as desired
 
 python=3.5
 tqdm==4.64.1
